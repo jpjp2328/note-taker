@@ -27,8 +27,8 @@ Deployed Application - https://note-taker-23281995.herokuapp.com/
 - Users would be directed to the home page, Click on the "Get Started" Button to be redirected to note taking page. From there, users would be able to click and write in the "Note Title" and "Note Text" areas. Once both areas are filled a save icon would appear in the top right, click on it to save your note. Once the page is refreshed, you would be able to see your saved notes on the left column. Users are able to click on the saved notes to pull up the context/text of the note. To write a new note click "+" icon on the top right.
 
 ## Demo
-![]()
-![]()
+![](./Assets/notetakerexample1.png)
+![](./Assets/notetakerexample2.png)
 
 ## License
 - This project is licensed under MIT license.
